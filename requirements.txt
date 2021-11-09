@@ -1,0 +1,12 @@
+opencv-python
+requests
+pillow
+pyautogui
+psutil
+colorama
+winshell
+pypiwin32
+discord_webhook
+pypresence
+numpy
+keyboard
